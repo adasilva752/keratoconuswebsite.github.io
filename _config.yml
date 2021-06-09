@@ -45,10 +45,10 @@ share-links-active:
   linkedin: true
   
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: 
+disqus: ""
 
 # Google Analytics ID
-google_analytics: 
+google_analytics: ""
 
 # Output options (more information on Jekyll's site)
 timezone: "Eastern Standard Time"
