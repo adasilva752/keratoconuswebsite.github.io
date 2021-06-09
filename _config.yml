@@ -4,11 +4,11 @@ url: "http://reconhub.github.io"
 baseurl: ""
 
 title: Keratoconus Awareness
-description: We are a group of international experts in infectious disease modelling, Public Health, and software development who collaborate to create the next generation of analysis tools for disease outbreak response using the R software
+description: Keratoconus is a rare genetic disorder that develops greatly during the teenage years. Do to this, I am beginning an awareness campaign for the identification of early symptoms and inform students, parents, and teachers about keratoconus.
 
 # List of links in the navigation bar
 navbar-links:
-  About RECON:
+  About Keratoconus:
     - What we do: ""
     - Join us: "join"
     - Contact: "contact"
@@ -23,12 +23,11 @@ navbar-links:
 
 # Change all these values or delete the ones you don't want (these appear in the footer).
 # Important: you must keep the "name" parameter, everything else you can remove
-author:
-  name: "RECON - R Epidemics Consortium"
-  email: "thibautjombart@gmail.com"
-  github: reconhub/reconhub.github.io
-  facebook: yourname  # eg. daattali
-  twitter: yourname   # eg. daattali
+author: "Andrei Da Silva"
+  name: "Keratoconus Awareness Campaign"
+  email: "reidasilva75@gmail.com"
+  github: keratoconuswebsite.github.io
+  twitter:    # eg. daattali
 
 # Select which links to show in the footer
 footer-links-active:
@@ -52,7 +51,7 @@ disqus: "reconhub-github-io"
 google_analytics: "UA-83713279-1"
 
 # Output options (more information on Jekyll's site)
-timezone: "Europe/London"
+timezone: "Eastern Standard Time"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
