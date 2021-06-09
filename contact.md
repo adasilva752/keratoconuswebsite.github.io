@@ -11,14 +11,10 @@ job ads etc. consider using our [mailing list](https://mailman.ic.ac.uk/mailman/
 
 ## Specific enquiries
 
-Our *coordinators* are our focal points for some of our main activities. Contact
-them in priority if your enquiry relates to one of these topics:
+These are the coordinators of the keratoconus awareness project, feel free to contact anyone of them for any specific inquiries:
 
-- *field deployment*: [Thibaut Jombart](mailto:thibautjombart@gmail.com)
+- *main coordinator*: [Andrei Da Silva](mailto:reidasilva75@gmail.com
 
-- *software development*: [Tim Taylor](mailto:tim.taylor@hiddenelephants.co.uk)
-
-- *training and capacity building*: [Janetta Skarp](mailto:janetta.skarp13@imperial.ac.uk)
 
 
 
